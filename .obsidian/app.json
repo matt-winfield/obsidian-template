@@ -1,0 +1,11 @@
+{
+  "mobilePullAction": "command-palette:open",
+  "userIgnoreFilters": [
+    "Templates/",
+    "Excalidraw/Scripts/"
+  ],
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./attachments",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Notes"
+}

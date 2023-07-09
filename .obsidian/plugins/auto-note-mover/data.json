@@ -1,0 +1,26 @@
+{
+  "trigger_auto_manual": "Automatic",
+  "use_regex_to_check_for_tags": false,
+  "statusBar_trigger_indicator": true,
+  "folder_tag_pattern": [
+    {
+      "folder": "Projects",
+      "tag": "#project",
+      "pattern": ""
+    },
+    {
+      "folder": "People",
+      "tag": "#person",
+      "pattern": ""
+    }
+  ],
+  "use_regex_to_check_for_excluded_folder": false,
+  "excluded_folder": [
+    {
+      "folder": "Templates"
+    },
+    {
+      "folder": "excalibrain"
+    }
+  ]
+}
