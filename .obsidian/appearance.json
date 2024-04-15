@@ -1,3 +1,8 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "Colored Sidebar Items",
+    "Daily Note Themes",
+    "Notebook Backgrounds"
+  ]
 }

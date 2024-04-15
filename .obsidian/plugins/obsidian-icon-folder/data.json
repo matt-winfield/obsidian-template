@@ -6,26 +6,81 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiPenNibFill",
+      "RiGlobeLine",
       "RiCalendar2Line",
       "RiFileEditFill",
-      "🧑",
-      "RiPagesLine",
-      "RiLightbulbLine"
+      "🧑"
     ],
     "recentlyUsedIconsSize": 5,
-    "rules": [],
+    "rules": [
+      {
+        "rule": " - Areas",
+        "icon": "BoBxsPackage",
+        "for": "folders"
+      },
+      {
+        "rule": " - Fleeting",
+        "icon": "BoBxsPencil",
+        "for": "folders"
+      },
+      {
+        "rule": " - Maps of Content",
+        "icon": "BoBxGlobeAlt",
+        "for": "folders"
+      },
+      {
+        "rule": " - Projects",
+        "icon": "BoBxsPen",
+        "for": "folders"
+      },
+      {
+        "rule": " - Resources",
+        "icon": "BoBxsBook",
+        "for": "folders"
+      },
+      {
+        "rule": "- Archives",
+        "icon": "BoBxsArchive",
+        "for": "folders"
+      },
+      {
+        "rule": "- Daily",
+        "icon": "BoBxCalendarEvent",
+        "for": "folders"
+      },
+      {
+        "rule": "- Meta",
+        "icon": "BoBxSelection",
+        "for": "folders"
+      },
+      {
+        "rule": "- Permanent",
+        "icon": "BoBxsFile",
+        "for": "folders"
+      },
+      {
+        "rule": "- Templates",
+        "icon": "BoBxRuler",
+        "for": "folders"
+      },
+      {
+        "rule": "(TEMPLATE)",
+        "icon": "BoBxRuler",
+        "for": "files"
+      },
+      {
+        "rule": "Idea",
+        "icon": "RiLightbulbFlashLine",
+        "for": "folders"
+      }
+    ],
     "extraMargin": {
       "top": 0,
       "right": 4,
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": false
-  },
-  "Home": "RiHome4Line",
-  "Templates": "RiPagesLine",
-  "Projects": "RiLightbulbLine",
-  "People": "🧑",
-  "Notes": "RiFileEditFill",
-  "Daily Notes": "RiCalendar2Line"
+    "iconInTabsEnabled": true
+  }
 }

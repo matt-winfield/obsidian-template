@@ -2,13 +2,13 @@
   "table-editor-obsidian",
   "dataview",
   "obsidian-excalidraw-plugin",
-  "obsidian-kanban",
   "obsidian-emoji-toolbar",
   "obsidian-icon-folder",
   "obsidian-reminder-plugin",
   "tag-wrangler",
   "auto-note-mover",
-  "excalibrain",
   "folder-note-plugin",
-  "obsidian-tagfolder"
+  "obsidian-tagfolder",
+  "calendar",
+  "templater-obsidian"
 ]

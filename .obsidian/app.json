@@ -5,7 +5,8 @@
     "Excalidraw/Scripts/"
   ],
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "./attachments",
-  "newFileLocation": "folder",
-  "newFileFolderPath": "Notes"
+  "attachmentFolderPath": "99 - Meta/attachments",
+  "newFileLocation": "root",
+  "newFileFolderPath": "",
+  "vimMode": true
 }

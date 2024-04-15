@@ -1,11 +1,11 @@
 {
-  "folder": "Excalidraw",
+  "folder": "99 - Meta/Excalidraw",
   "embedUseExcalidrawFolder": false,
   "templateFilePath": "Excalidraw/Template.excalidraw",
   "scriptFolderPath": "Excalidraw/Scripts",
   "compress": false,
   "autosave": true,
-  "autosaveInterval": 10000,
+  "autosaveInterval": 15000,
   "autosaveIntervalDesktop": 15000,
   "autosaveIntervalMobile": 10000,
   "drawingFilenamePrefix": "Drawing ",
@@ -39,7 +39,7 @@
   "hoverPreviewWithoutCTRL": false,
   "linkOpacity": 1,
   "openInAdjacentPane": true,
-  "openInMainWorkspace": true,
+  "openInMainWorkspace": false,
   "showLinkBrackets": false,
   "allowCtrlClick": true,
   "forceWrap": false,
@@ -8181,7 +8181,7 @@
             "containerId": null,
             "originalText": "DNS",
             "lineHeight": 1.5723270440251587,
-            "baseline": 77
+            "baseline": 76
           },
           {
             "type": "line",
@@ -11227,7 +11227,7 @@
             "containerId": null,
             "originalText": "Slack",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           }
         ],
         "id": "mb6aDt8lLpnjb9BXfkKzo",
@@ -11720,7 +11720,7 @@
             "containerId": null,
             "originalText": "Docker",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           }
         ],
         "id": "Qsr_bCZKjzSUef9igg3F_",
@@ -12086,7 +12086,7 @@
             "containerId": null,
             "originalText": "GitHub",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           }
         ],
         "id": "K39d22cEulRClkwYv67oo",
@@ -12165,7 +12165,7 @@
             "containerId": null,
             "originalText": "VPC",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           },
           {
             "type": "rectangle",
@@ -12556,7 +12556,7 @@
             "containerId": null,
             "originalText": "Private subnet",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           },
           {
             "type": "rectangle",
@@ -12843,7 +12843,7 @@
             "containerId": null,
             "originalText": "Public subnet",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           },
           {
             "type": "rectangle",
@@ -13098,7 +13098,7 @@
             "containerId": null,
             "originalText": "User",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           },
           {
             "type": "line",
@@ -13238,7 +13238,7 @@
             "containerId": null,
             "originalText": "Users",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           },
           {
             "type": "ellipse",
@@ -13840,7 +13840,7 @@
             "containerId": null,
             "originalText": "Device",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           }
         ],
         "id": "9_9pebw1kmiJPt-x9timk",
@@ -13916,7 +13916,7 @@
             "containerId": null,
             "originalText": "Server",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           },
           {
             "type": "line",
@@ -14147,7 +14147,7 @@
             "containerId": null,
             "originalText": "Email",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           },
           {
             "type": "rectangle",
@@ -14379,7 +14379,7 @@
             "containerId": null,
             "originalText": "Application\nserver",
             "lineHeight": 1.3499999999999994,
-            "baseline": 34
+            "baseline": 33
           }
         ],
         "id": "F87RhB-j96dWwbmYs0Nmb",
@@ -14515,7 +14515,7 @@
             "containerId": null,
             "originalText": "Multi\nInstance\nserver",
             "lineHeight": 1.3443715956615416,
-            "baseline": 54
+            "baseline": 53
           }
         ],
         "id": "Od84Pty53cYQl0YeE72tj",
@@ -14726,7 +14726,7 @@
             "containerId": null,
             "originalText": "Multi Instance",
             "lineHeight": 1.3218415496714844,
-            "baseline": 19
+            "baseline": 18
           }
         ],
         "id": "Shstca2K3_QaNuM333rno",
@@ -15313,7 +15313,7 @@
             "containerId": null,
             "originalText": "Relational DB",
             "lineHeight": 1.350000000000001,
-            "baseline": 16
+            "baseline": 15
           }
         ],
         "id": "mAAzdHRvwsoymPFVR8UjL",
@@ -18313,7 +18313,7 @@
             "containerId": null,
             "originalText": "Stack\nStorage",
             "lineHeight": 1.3500000000000014,
-            "baseline": 34
+            "baseline": 33
           }
         ],
         "id": "1W-Q3VRPB1zD29yQts8Ym",
@@ -18897,7 +18897,7 @@
             "containerId": null,
             "originalText": "Key",
             "lineHeight": 1.3499999999999988,
-            "baseline": 7
+            "baseline": 5
           },
           {
             "type": "text",
@@ -18937,7 +18937,7 @@
             "containerId": null,
             "originalText": "Key",
             "lineHeight": 1.3499999999999988,
-            "baseline": 7
+            "baseline": 5
           },
           {
             "type": "text",
@@ -18977,7 +18977,7 @@
             "containerId": null,
             "originalText": "Value",
             "lineHeight": 1.3499999999999952,
-            "baseline": 7
+            "baseline": 5
           },
           {
             "type": "text",
@@ -19017,7 +19017,7 @@
             "containerId": null,
             "originalText": "Value",
             "lineHeight": 1.3499999999999952,
-            "baseline": 7
+            "baseline": 5
           },
           {
             "type": "text",
@@ -20105,7 +20105,7 @@
             "containerId": null,
             "originalText": "www     127.0.0.1",
             "lineHeight": 1.0127659574468078,
-            "baseline": 9
+            "baseline": 8
           },
           {
             "type": "arrow",
@@ -20965,7 +20965,7 @@
             "containerId": null,
             "originalText": "Message Q",
             "lineHeight": 1.3500000000000016,
-            "baseline": 17
+            "baseline": 16
           }
         ],
         "id": "vBXu1m5_j3egDYDduknEc",
@@ -21556,7 +21556,7 @@
             "containerId": null,
             "originalText": "cloud",
             "lineHeight": 1.3499999999999974,
-            "baseline": 19
+            "baseline": 18
           }
         ],
         "id": "GBxBAw8tgVJJCE4JVHJCK",
@@ -21909,7 +21909,7 @@
             "containerId": null,
             "originalText": "CDN",
             "lineHeight": 1.2257881191819515,
-            "baseline": 29
+            "baseline": 28
           },
           {
             "type": "line",
@@ -23144,7 +23144,7 @@
             "containerId": null,
             "originalText": "Lorem ipsum dolor sit amet, \nconsectetur adipiscing elit,sed\n do eiusmod tempor incididunt\n ut labore et dolore magna\n aliqua. Ut enim ad miveniam,\n quis nostrud exercitaullamco \nlaboris nisi ut aliquip ex ea \nommodo consequat. Duis aute \nirure dolor in reprehenderit i",
             "lineHeight": 1.3706256908018875,
-            "baseline": 95
+            "baseline": 30
           },
           {
             "type": "text",
@@ -23186,7 +23186,7 @@
             "containerId": null,
             "originalText": "Lorem ipsum dolor s, \nconsectetur adipng d\n do eiusmopor incididunt\nut labore et dolore magna\naliqua. Ut enim ad miveniam,\nquis nostrud exercitaullamco \nlaboris nisi ut aliquip ex ea \nommodo consequat. Duis aute \n",
             "lineHeight": 1.3706256908018875,
-            "baseline": 95
+            "baseline": 30
           },
           {
             "type": "rectangle",

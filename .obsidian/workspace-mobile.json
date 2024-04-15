@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "fd28a783b209a255",
+    "type": "split",
+    "children": [
+      {
+        "id": "76791a5539f12bef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a1a28a3f8b14361",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c8b7e1a5beebcb4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6c2e48675f9abbc9",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "bfb7804fac73ad06",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:music/from-tv",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "1e4f3648f3bdc1d1",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "b675f15e913fc6e5",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "f0bfcd8b7e58308e",
+        "type": "leaf",
+        "state": {
+          "type": "tagfolder-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "e1069440d34e4c2f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "711ff8ab8b00e5e1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "0963cbc91c0659d2",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "46ec661f4ef5889b",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      },
+      {
+        "id": "109fc2e31c160697",
+        "type": "leaf",
+        "state": {
+          "type": "reminder-list",
+          "state": {}
+        }
+      },
+      {
+        "id": "cd124ef5793accb2",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "zk-prefixer:Create new unique note": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "6c2e48675f9abbc9",
+  "lastOpenFiles": [
+    "Notes/Shutter Island.md",
+    "Projects/Self-Hosted Google Photos + Document Tagging system.md",
+    "Notes/TV Shows and Movies.md",
+    "Notes/It's So Hard to Say Goodbye to Yesterday.md",
+    "excalibrain/excalibrain.md",
+    "Notes/Spa-Francorchamps.md",
+    "Notes/iRacing.md",
+    "Projects/speedkeys.md",
+    "Notes/Constable Park.md",
+    "Notes/Richter - On The Nature of Daylight.md",
+    "Notes/Inscription.md",
+    "Notes/Obsidian organisation.md",
+    "Projects/Jira ticket status CLI tool.md",
+    "Templates/Project Idea.md",
+    "Templates/Person.md",
+    "Templates/Meeting.md",
+    "Templates/Daily Note.md",
+    "Home/Recipes/Hunters Chicken.md",
+    "Health.md",
+    "People/Ian and Sandy.md",
+    "People/Me.md",
+    "People/Dani.md",
+    "People/Birthdays.md",
+    "Notes/Track car.md",
+    "Projects/Pointing poker mobile.md",
+    "People/Mum.md",
+    "Untitled",
+    "Notes",
+    "People",
+    "Excalidraw",
+    "Templates",
+    "Project Ideas",
+    "Home/Recipes",
+    "Home",
+    "Recipes"
+  ]
+}

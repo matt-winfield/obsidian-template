@@ -4,20 +4,80 @@
   "statusBar_trigger_indicator": true,
   "folder_tag_pattern": [
     {
-      "folder": "Projects",
+      "folder": "07 - Archives",
+      "tag": "#archive",
+      "pattern": ""
+    },
+    {
+      "folder": "01 - Projects",
       "tag": "#project",
       "pattern": ""
     },
     {
-      "folder": "People",
+      "folder": "02 - Areas",
+      "tag": "#areas",
+      "pattern": ""
+    },
+    {
+      "folder": "03 - Resources/People",
       "tag": "#person",
+      "pattern": ""
+    },
+    {
+      "folder": "06 - Daily",
+      "tag": "#daily",
+      "pattern": ""
+    },
+    {
+      "folder": "03 - Resources/Recipes",
+      "tag": "#recipe",
+      "pattern": ""
+    },
+    {
+      "folder": "02 - Areas/Games",
+      "tag": "#games",
+      "pattern": ""
+    },
+    {
+      "folder": "03 - Resources/Music",
+      "tag": "#music",
+      "pattern": ""
+    },
+    {
+      "folder": "03 - Resources",
+      "tag": "#resource",
+      "pattern": ""
+    },
+    {
+      "folder": "04 - Permanent",
+      "tag": "#permanant",
+      "pattern": ""
+    },
+    {
+      "folder": "05 - Fleeting/Project Ideas",
+      "tag": "#idea",
+      "pattern": ""
+    },
+    {
+      "folder": "05 - Fleeting",
+      "tag": "#fleeting",
+      "pattern": ""
+    },
+    {
+      "folder": "02 - Areas/TV and Film",
+      "tag": "#tv-shows",
+      "pattern": ""
+    },
+    {
+      "folder": "02 - Areas/TV and Film",
+      "tag": "#movies",
       "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,
   "excluded_folder": [
     {
-      "folder": "Templates"
+      "folder": "99 - Meta/00 - Templates"
     },
     {
       "folder": "excalibrain"

@@ -1,3 +1,0 @@
-#meeting
-date:: [[{{date}}]]
-members::
