@@ -1,0 +1,69 @@
+.homepage {
+  /* Hide the metadata display for the homepage */
+  --metadata-display-reading: none;
+  --metadata-display-editing: none;
+}
+
+.homepage .inline-title {
+  /* Hide the inline title */
+  display: none;
+}
+
+/* Get rid of the parent bullet */
+.homepage div.markdown-preview-section > div > ul > li > div.list-bullet {
+  display: none !important;
+}
+
+/* Remove the indentation guide lines */
+.homepage.markdown-rendered.show-indentation-guide li > ul::before,
+.homepage.markdown-rendered.show-indentation-guide li > ol::before {
+  display: none;
+}
+
+div.markdown-preview-section > div > ul.has-list-bullet > li {
+  padding-left: 0p !important;
+}
+
+.homepage div > ul {
+  list-style: none;
+  display: flex;
+  column-gap: 50px;
+  flex-flow: row wrap;
+}
+
+div.callout {
+  background-color: color-mix(in srgb, var(--callout-color) 50%, black);
+}
+
+/* These colors come from Colored Sidebar Items.css */
+div[data-callout-metadata*="cyan"].callout {
+  --callout-color: var(--cyan);
+}
+
+div[data-callout-metadata*="blue"].callout {
+  --callout-color: var(--blue);
+}
+
+div[data-callout-metadata*="light-blue"].callout {
+  --callout-color: var(--light-blue);
+}
+
+div[data-callout-metadata*="violet"].callout {
+  --callout-color: var(--violet);
+}
+
+div[data-callout-metadata*="purple"].callout {
+  --callout-color: var(--purple);
+}
+
+div[data-callout-metadata*="magenta"].callout {
+  --callout-color: var(--magenta);
+}
+
+div[data-callout-metadata*="hot-red"].callout {
+  --callout-color: var(--hot-red);
+}
+
+div[data-callout-metadata*="cool-gray"].callout {
+  --callout-color: var(--cool-gray);
+}

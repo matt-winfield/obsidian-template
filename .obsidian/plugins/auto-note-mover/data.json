@@ -19,7 +19,7 @@
       "pattern": ""
     },
     {
-      "folder": "03 - Resources/People",
+      "folder": "02 - Areas/People",
       "tag": "#person",
       "pattern": ""
     },
@@ -29,7 +29,7 @@
       "pattern": ""
     },
     {
-      "folder": "03 - Resources/Recipes",
+      "folder": "02 - Areas/Cooking/Recipes",
       "tag": "#recipe",
       "pattern": ""
     },
@@ -49,12 +49,7 @@
       "pattern": ""
     },
     {
-      "folder": "04 - Permanent",
-      "tag": "#permanant",
-      "pattern": ""
-    },
-    {
-      "folder": "05 - Fleeting/Project Ideas",
+      "folder": "02 - Areas/Code/Project Ideas",
       "tag": "#idea",
       "pattern": ""
     },

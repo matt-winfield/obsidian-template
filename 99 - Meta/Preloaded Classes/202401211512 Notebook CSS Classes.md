@@ -1,7 +1,7 @@
 ---
 date: 2024-01-21T15:12
 tags:
-  - Meta
+  - meta
 cssclasses:
   - page-manila
   - pen-red

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1bf1415ac8a60574",
+        "id": "ae1b7a88556692c3",
         "type": "tabs",
         "children": [
           {
-            "id": "d1881d1209e6f299",
+            "id": "37f9c150fdcdbc00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 - Archives/Tiny Chess Bot Coding Challenge.md",
+                "file": "00 - Maps of Content/00 - Maps of Content.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#daily",
+                "query": "tag:Meta",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,15 +77,18 @@
         ]
       },
       {
-        "id": "2a2be5acce6497d6",
+        "id": "1630cb7d93a04e4a",
         "type": "tabs",
         "children": [
           {
-            "id": "38b51d475d872a5f",
+            "id": "2ec6b4cb5a74ddc6",
             "type": "leaf",
             "state": {
-              "type": "reminder-list",
-              "state": {}
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
             }
           }
         ]
@@ -103,26 +106,48 @@
         "type": "tabs",
         "children": [
           {
+            "id": "1f8868d438db61e2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
             "id": "897e971f65a753f3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07 - Archives/Tiny Chess Bot Coding Challenge.md",
+                "file": "00 - Maps of Content/00 - Maps of Content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2ec6b4cb5a74ddc6",
+            "id": "984860d83f7fab40",
             "type": "leaf",
             "state": {
-              "type": "tag",
+              "type": "backlink",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
+                "file": "00 - Maps of Content/00 - Maps of Content.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "38b51d475d872a5f",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
             }
           },
           {
@@ -131,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 - Archives/Tiny Chess Bot Coding Challenge.md"
+                "file": "00 - Maps of Content/00 - Maps of Content.md"
               }
             }
           },
@@ -141,38 +166,6 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
-            }
-          },
-          {
-            "id": "1f8868d438db61e2",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "10b5b56c5fc32f1e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "984860d83f7fab40",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "07 - Archives/Tiny Chess Bot Coding Challenge.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
             }
           }
         ]
@@ -195,44 +188,44 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "d1881d1209e6f299",
+  "active": "37f9c150fdcdbc00",
   "lastOpenFiles": [
-    "05 - Fleeting/Project Ideas/speedkeys.md",
-    "05 - Fleeting/Project Ideas/Sim Setup Suite + Tyre Wear.md",
-    "05 - Fleeting/Project Ideas/Sim racing brake trainer.md",
-    "05 - Fleeting/Project Ideas/Self-Hosted Google Photos + Document Tagging system.md",
-    "05 - Fleeting/Project Ideas/Programmatic video tool for coding tutorials.md",
-    "05 - Fleeting/Project Ideas/Pointing poker mobile.md",
-    "05 - Fleeting/Project Ideas/Jira ticket status CLI tool.md",
-    "05 - Fleeting/Project Ideas/Invoice Generator.md",
-    "05 - Fleeting/Project Ideas/Inventory and Order Tracker.md",
-    "05 - Fleeting/Project Ideas/HangWithTheGang.md",
-    "05 - Fleeting/Project Ideas/Guitar music note taking app.md",
-    "05 - Fleeting/Project Ideas/Full-stack deployment SaaS with Blue Green.md",
-    "05 - Fleeting/Project Ideas/Full stack logs + metrics aggregator.md",
-    "05 - Fleeting/Project Ideas/F1 Trading Card Game.md",
-    "05 - Fleeting/Project Ideas/Coding video series + blog.md",
-    "05 - Fleeting/Project Ideas/Code Golf.md",
-    "05 - Fleeting/Project Ideas/Bill splitting app.md",
-    "05 - Fleeting/Project Ideas/App name generator.md",
-    "05 - Fleeting/Project Ideas/Alerting, Monitoring and analytics.md",
-    "06 - Daily/2024-04-15.md",
-    "07 - Archives/Tiny Chess Bot Coding Challenge.md",
-    "03 - Resources/NI Number.md",
-    "02 - Areas/TV and Film/Lucifer.md",
-    "02 - Areas/TV and Film/Shutter Island.md",
-    "04 - Permanent/Track car.md",
-    "99 - Meta/attachments/MX 5 Video Test-1gh5HxQ_PQY.mp3.md",
+    "02 - Areas/Code/NextJS.md",
+    "00 - Maps of Content/00 - Maps of Content.md",
+    "03 - Resources/Music/Hey That's No Way to Say Goodbye.md",
+    "03 - Resources/Music/It's So Hard to Say Goodbye to Yesterday.md",
+    "02 - Areas/Health",
+    "02 - Areas/TV and Film/TV and Film.md",
+    "02 - Areas/Code/Remix.md",
+    "02 - Areas/Driving",
+    "02 - Areas/Cooking",
+    "02 - Areas/Code",
+    "02 - Areas/Code/Project Ideas/Type-safe path handler.md",
+    "02 - Areas/Code/Project Ideas/speedkeys.md",
+    "02 - Areas/Code/Project Ideas/Sim Setup Suite + Tyre Wear.md",
+    "02 - Areas/Code/Project Ideas/Sim racing brake trainer.md",
+    "02 - Areas/Code/Project Ideas/Self-Hosted Google Photos + Document Tagging system.md",
+    "02 - Areas/Code/Project Ideas/Programmatic video tool for coding tutorials.md",
+    "02 - Areas/Code/Project Ideas/Pointing poker mobile.md",
+    "02 - Areas/Code/Project Ideas/Jira ticket status CLI tool.md",
+    "02 - Areas/Code/Project Ideas/Invoice Generator.md",
+    "02 - Areas/Code/Project Ideas/Inventory and Order Tracker.md",
+    "02 - Areas/Code/Project Ideas/HangWithTheGang.md",
+    "02 - Areas/Code/Project Ideas/Guitar music note taking app.md",
+    "02 - Areas/Code/Project Ideas/Full-stack deployment SaaS with Blue Green.md",
+    "02 - Areas/Code/Project Ideas/Full stack logs + metrics aggregator.md",
+    "02 - Areas/Code/Project Ideas/F1 Trading Card Game.md",
+    "02 - Areas/Code/Project Ideas/Coding video series + blog.md",
+    "02 - Areas/Code/Project Ideas/Code Golf.md",
+    "02 - Areas/Code/Project Ideas/Bill splitting app.md",
+    "02 - Areas/Code/Project Ideas/App name generator.md",
+    "02 - Areas/Code/Project Ideas/Alerting, Monitoring and analytics.md",
     "MX 5 Video Test-1gh5HxQ_PQY.mp3",
-    "03 - Resources/People",
-    "05 - Fleeting/Project Ideas",
+    "02 - Areas/People",
+    "02 - Areas/Code/Project Ideas",
     "02 - Areas/TV and Film",
     "02 - Areas/Games/iRacing",
     "02 - Areas/Games",
-    "03 - Resources/Music",
-    "99 - Meta/Preloaded Classes",
-    "07 - Archives",
-    "06 - Daily",
     "99 - Meta/attachments/Spa-F1-Belgian-Grand-Prix-circuit-configuration-map 1.webp",
     "99 - Meta/attachments/Spa-F1-Belgian-Grand-Prix-circuit-configuration-map.webp",
     "Excalidraw/Scripts/Downloaded/Convert selected text elements to sticky notes.svg",

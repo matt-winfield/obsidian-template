@@ -11,8 +11,13 @@
             "id": "8a1a28a3f8b14361",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "00 - Maps of Content/00 - Maps of Content.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "00 - Maps of Content/00 - Maps of Content.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "00 - Maps of Content/00 - Maps of Content.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +122,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "00 - Maps of Content/00 - Maps of Content.md"
+          }
         }
       },
       {
@@ -135,7 +144,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,8 +160,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6c2e48675f9abbc9",
+  "active": "8a1a28a3f8b14361",
   "lastOpenFiles": [
+    "06 - Daily/2024-04-15.md",
+    "06 - Daily/2024-04-16.md",
+    "06 - Daily/2024-04-14.md",
+    "03 - Resources/Music/Hey That's No Way to Say Goodbye.md",
+    "Untitled.md",
+    "02 - Areas/TV and Film/TV and Film.md",
     "Notes/Shutter Island.md",
     "Projects/Self-Hosted Google Photos + Document Tagging system.md",
     "Notes/TV Shows and Movies.md",
@@ -173,12 +188,6 @@
     "Home/Recipes/Hunters Chicken.md",
     "Health.md",
     "People/Ian and Sandy.md",
-    "People/Me.md",
-    "People/Dani.md",
-    "People/Birthdays.md",
-    "Notes/Track car.md",
-    "Projects/Pointing poker mobile.md",
-    "People/Mum.md",
     "Untitled",
     "Notes",
     "People",
